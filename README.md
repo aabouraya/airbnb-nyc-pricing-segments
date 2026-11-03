@@ -12,8 +12,7 @@ airbnb-nyc-pricing-segments/
 ├── data/
 │   ├── raw/AB_NYC_2019.csv      # original Kaggle file — never edit
 │   └── processed/               # cleaned data written by notebooks
-├── notebooks/
-│   └── 01_data_exploration.ipynb
+├── notebooks/                   # Jupyter / Colab notebooks
 ├── reports/figures/             # charts used in the report
 ├── decisions.md                 # every cleaning/modelling decision and why
 ├── requirements.txt
