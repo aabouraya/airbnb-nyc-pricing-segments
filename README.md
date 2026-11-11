@@ -41,3 +41,6 @@ jupyter notebook notebooks/
 ## Data
 `AB_NYC_2019.csv` — Inside Airbnb / Kaggle: New York City Airbnb Open Data (2019).
 48,895 listings × 16 columns.
+
+## Acknowledgments
+The initial project structure and boilerplate code for this repository were generated with the assistance of Claude Code (by Anthropic).
