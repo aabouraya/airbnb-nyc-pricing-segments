@@ -1,6 +1,10 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-scikit-learn>=1.3
-scipy>=1.10
+# Exact versions used to produce the results (Python 3.12).
+# Tested 13 Nov 2026: 03_regression and 04_clustering_host_types reproduce
+# predictions.csv and host_types.csv exactly with these versions.
+pandas==2.3.3
+numpy==2.1.3
+scikit-learn==1.8.0
+scipy==1.17.0
+matplotlib==3.10.6
+seaborn==0.13.2
 jupyter
